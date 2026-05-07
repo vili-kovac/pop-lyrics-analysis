@@ -6,7 +6,7 @@ This project explores the evolution of popular music over six decades using Data
 1. **The "Industrialization" of Authorship:** Has the average number of writers per song systematically increased?
 2. **Lyrical Simplification:** Has the lexical complexity (measured via TTR) of mainstream music declined over time?
 
-*Note: This project was completed as part of the "Introduction to Data Science" course at Juraj Dobrila University of Pula. This is a translation of the original project made in Croatian*
+*Note: This project was completed as part of the "Introduction to Data Science" course at Juraj Dobrila University of Pula. This is a translation of the original project made in Croatian.*
 
 ## Key Findings 📈
 * **The Death of the Solo Writer:** Data shows a dramatic spike in the average number of writers per song starting in the 1990s. Modern hits have shifted from single lyricists to collaborative production models.
@@ -25,7 +25,7 @@ The raw dataset used for this project exceeds GitHub storage limits (29 MB). You
 ## How to View 🚀
 
 ### 1. Quick View (Recommended)
-* **Open the `.html` file** – Download and open this file in your browser. This is the best way to see the full report, all graphs, and the analysis beautifully formatted without any page breaks.
+* **Open the `.html` file** Download and open this file in your browser. This is the best way to see the full report, all graphs, and the analysis beautifully formatted without any page breaks.
 
 ### 2. Interactive Code (Jupyter)
 If you want to run the code yourself:
